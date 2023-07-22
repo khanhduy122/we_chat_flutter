@@ -1,16 +1,6 @@
-# we_chat
+# Screenshots
+![image](https://github.com/khanhduy122/we_chat_flutter/assets/88194404/92d2de2e-931d-4833-b647-e4a10548a7f4)
+![image](https://github.com/khanhduy122/we_chat_flutter/assets/88194404/371c3123-f5d0-4118-b630-75ebe08f0cee)
+![image](https://github.com/khanhduy122/we_chat_flutter/assets/88194404/ed0e08af-63ec-4fce-acf3-fc6455a1a65d)
+![image](https://github.com/khanhduy122/we_chat_flutter/assets/88194404/a03608e1-faaf-43de-8de9-226a56ff6014)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
